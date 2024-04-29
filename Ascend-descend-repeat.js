@@ -21,3 +21,6 @@ Notes:
   minimum and maximum can equal one another and result in a 
   single number repeated for the length of the string.
 */
+
+
+// Solution

@@ -39,3 +39,5 @@ function ascendDescend(length, minimum, maximum) {
   }
   return answer.slice(0, length);
 }
+
+// or
